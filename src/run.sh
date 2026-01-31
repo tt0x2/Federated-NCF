@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # ------------------------------------------------- #
-# Author: xietao                					#
-# Repo: https://github.com/xietao02/Federated-NCF/  #
+# Repo: https://github.com/tt0x2/Federated-NCF/     #
 # ------------------------------------------------- #
 
 
